@@ -3,3 +3,4 @@
 * Initial plan for World Domination
 * Some git demo stuff as well
 * Maybe some excercises
+* Exploring cool features
